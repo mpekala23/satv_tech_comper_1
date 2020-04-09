@@ -2,8 +2,6 @@
 
 ### Setup
 
-I have publicly hosted the website here for your convenience: www.fingoldin.com:3000
-
 You will need Node.js, as well as Mongodb. Install a mongodb server locally, with a database named 'uc' that contains two collections: 'progressbars' and 'users'. Then create an admin account by running 'node register.js [username] [password]'. You may need to change the mongodb connection url in register.js and main.js. Having installed all this, simply run 'npm start' in this directory.
 
 ### Code
